@@ -1,0 +1,4 @@
+S3/Map.xcf filter=lfs diff=lfs merge=lfs -text
+S3/Map_Cyrillic.xcf filter=lfs diff=lfs merge=lfs -text
+S3/Map_Cyrillic_Dash.xcf filter=lfs diff=lfs merge=lfs -text
+S3/Map_Cyrillic_Compass.xcf filter=lfs diff=lfs merge=lfs -text
