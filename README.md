@@ -9,19 +9,19 @@ With GIMP files, you have all layers and other stuff that I used, in order to cr
 
 # Templates
 ### Alphabet map
-![Map](S3/Map.jpg)
+![Map](docs/images/Map.jpg)
 ### Greek and Cyrillic alphabet
-![Cyrillic](S3/Map_Cyrillic.jpg)
+![Cyrillic](docs/images/Map_Cyrillic.jpg)
 ### Greek and Cyrillic alphabet with dash character between
-![Cyrillic Sash](S3/Map_Cyrillic_Dash.jpg)
+![Cyrillic Sash](docs/images/Map_Cyrillic_Dash.jpg)
 ### Greek and Cyrillic map with compass
-![Cyrillic Compass](S3/Map_Cyrillic_Compass.jpg)
+![Cyrillic Compass](docs/images/Map_Cyrillic_Compass.jpg)
 ### Greek and Cyrillic map with compass - Hamster idea 1
 The castle, where hamster is, is different color (turquise)
-![Cyrillic Compass with hamster](S3/Map_Cyrillic_Compass_Hammy.jpg)
+![Cyrillic Compass with hamster](docs/images/Map_Cyrillic_Compass_Hammy.jpg)
 ### Greek and Cyrillic map with compass - Hamster idea 2
 The castle, where hamster is, have additional text "HAMSTER" with different color (turquise)
-![Cyrillic Compass with hamster](S3/Map_Cyrillic_Compass_Hammy2.jpg)
+![Cyrillic Compass with hamster](docs/images/Map_Cyrillic_Compass_Hammy2.jpg)
 
 # Tips & Tricks
 
