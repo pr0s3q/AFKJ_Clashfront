@@ -1,11 +1,11 @@
 # Guide
-### Make shadow marks on taken castles
+## Make shadow marks on taken castles
 Lets consider the following scenario. You are starting as RED team, and you take castle 80 right above your starting castle.
 ![example1](images/example1.jpg)
 
 `.xcf` file contains "Castles Shadow" group, with duplicate castles. You need to select the castle to which you want to add shadow (in out case it is gonna be "Castle O #1"). Then go to `"Filters" -> "Light and Shadow" -> "Drop Shadow"`
-![~example2](images/example2.jpg)
-![~example3](images/example3.jpg)
+![example2](images/example2.jpg)
+![example3](images/example3.jpg)
 "Drop Shadow" you can mess around, and configure however you want. Here are the options that I am using
 - X - 0
 - Y - 0
@@ -21,4 +21,14 @@ Colors:
 - Yellow - #ffff00 (255, 255, 0)
 
 ![example4](images/example4.jpg)
+
 And you are done :)
+
+## Remove shadow marks from castle
+If you want to remove the shadow from castle, you need to click on `fx` button right next to the castle layer.
+This will open "Layer Effects" toolbar, from which you can remove the effect completly
+
+![example5](images/example5.jpg)
+
+## Change shadow color
+In order to change shadow color, you need to remove the previous shadow, and add new one instead
